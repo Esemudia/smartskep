@@ -1,5 +1,6 @@
 <?php
-include_once("header/header.php");
+phpinfo();
+// include_once("header/header.php");
 ?>
         <!-- Hero Section -->
         <section class="hero-empowerment-area">
